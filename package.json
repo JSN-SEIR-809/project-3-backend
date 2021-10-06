@@ -1,0 +1,25 @@
+{
+  "name": "project-3-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSN-SEIR-809/project-3-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSN-SEIR-809/project-3-backend/issues"
+  },
+  "homepage": "https://github.com/JSN-SEIR-809/project-3-backend#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.9"
+  }
+}
