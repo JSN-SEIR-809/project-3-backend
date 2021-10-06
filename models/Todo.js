@@ -4,7 +4,7 @@ const todoSchema = new mongoose.Schema(
 
     {
        date: String,
-       due: String,
+       dueDate: String,
        user: String,
        content: String,
        priority: String,
