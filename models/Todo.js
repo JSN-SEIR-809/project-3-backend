@@ -9,6 +9,7 @@ const todoSchema = new mongoose.Schema(
        content: String,
        priority: String,
        completed: Boolean,
+       Todoer: { type: mongoose.Schema.Types.ObjectId, ref:"User"}
        
 
     }
