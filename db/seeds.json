@@ -1,0 +1,34 @@
+[
+    {
+      "username": "Naffrey",
+      "password": "password2099",
+      "location": { 
+          "state": "Kansas",
+          "city": "Leawood"
+    },
+      "timezone preference": "Central",
+      "theme": "Black & White Mountain"
+    },
+    {
+        "username": "ShelbyReese47",
+        "password": "password47",
+        "location": { 
+          "state": "Colorado",
+          "city": "Aurora"
+        },
+        "timezone preference": "Mountain",
+        "theme": "Fall Mountain"
+    },
+    {    
+        "username": "Joy",
+        "password": "password",
+        "location": { 
+          "state": "MA",
+          "city": "Boston"
+        },
+        "timezone preference": "Eastern",
+        "theme": "Blue mountains"
+    }
+
+
+]
